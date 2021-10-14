@@ -16,5 +16,6 @@ public class Practice1 {
 
     public static void main(String[] args) {
         // here main method
+        // crack
     }
 }
