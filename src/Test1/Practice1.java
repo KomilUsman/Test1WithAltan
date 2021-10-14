@@ -10,7 +10,6 @@ public class Practice1 {
      */
 
     // why you reject my giant bear MAN!!!
-    /*
-    are you mad at me for deleting your code
-     */
+
+    // ok git it
 }
